@@ -3,7 +3,7 @@
 <p align="center">
   <a href="#o-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#behavior">Demonstração</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#demonstacao">Demonstração</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#executando-o-projeto">Executar</a>
 </p>
 
@@ -28,9 +28,9 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - CSS
 - JavaScript
 
-## Demostração
+## Demonstração
 <p align="center">
-  <img src='' height="400px">
+  <img src='.github/behavior.gif' height="400px">
 </p>
 
 
