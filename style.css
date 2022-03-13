@@ -86,7 +86,7 @@ body{
   --rotation: 330deg;
 }
 
-.clock .hand {
+.clock .pointer {
   --rotation: 0;
 
   position: absolute;
@@ -102,19 +102,19 @@ body{
   border-top-right-radius: 10px;
 }
 
-.clock .hand.seconds {
+.clock .pointer.seconds {
   width: 3px;
   height: 40%;
   background: #f00;
 }
 
-.clock .hand.minutes {
+.clock .pointer.minutes {
   width: 7px;
   height: 35%;
   background: #000;
 }
 
-.clock .hand.hours {
+.clock .pointer.hours {
   width: 10px;
   height: 25%;
   background: #000;
